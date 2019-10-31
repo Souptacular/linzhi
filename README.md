@@ -26,7 +26,9 @@ If you don't want to read the entire chat log snippet scroll beyond it for a tl;
 ![Linzhi telegram chat snippet](https://github.com/Souptacular/linzhi/raw/master/Chat%20Logs/Snippets/january_11_2019_snippet.png)
 
 Links mentioned in the chat:
+
 https://www.youtube.com/watch?v=8Tal2dzSfiQ
+
 https://github.com/admin-ipfs/OhGodAnETHlargementPill
 
 ### tl;dr of Chat
