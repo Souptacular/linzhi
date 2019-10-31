@@ -2,7 +2,7 @@
 
 #### Please Note: None of the opinions expressed here are in any way representative of the Ethereum Foundation. I am speaking on behalf of myself only.
 
-In September 2019 I sent a couple of tweets that indicated that I personally feel that the ASIC manufacturer Linzhi has both pressured me and told lies around the topic of Progressive Proof-of-Work (ProgPoW). They responded that they would like to see evidence of such pressure or lies. Here I will outline some of our conversations and statements from Linzhi that lead me to believe they were pressuring and lying.
+In September 2019 I sent a couple of tweets that indicated that I personally feel that the ASIC manufacturer Linzhi has both pressured me and told lies around the topic of Programatic Proof-of-Work (ProgPoW). They responded that they would like to see evidence of such pressure or lies. Here I will outline some of our conversations and statements from Linzhi that lead me to believe they were pressuring and lying.
 
 ## The beginning
 
